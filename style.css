@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6e6;
+    color: #800000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.fotos img {
+    max-width: 200px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px #cc0000;
+}
+
+footer {
+    background-color: #ff4d4d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
